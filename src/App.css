@@ -1,0 +1,12 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.dark {
+  background-color: #242424;
+}
+
+.light {
+  background-color: azure;
+}
